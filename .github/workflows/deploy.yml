@@ -40,5 +40,5 @@ jobs:
           project: "lostinyou-nextchat-99"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
